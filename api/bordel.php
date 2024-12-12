@@ -1,0 +1,10 @@
+<?php
+$localdb="localhost";
+$userdb
+
+
+
+
+
+
+?>
